@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash827182&label=Profile%20views&color=0e75b6&style=flat" alt="akash827182" /> </p>
 
-- 🔭 I’m currently working on [Learning wep App](https://github.com/akash827182/E-Learning_web)
+- 🔭 I’m currently working on [E-Learning wep App](https://github.com/akash827182/E-Learning_web)
 
 - 🌱 I’m currently learning **React.Js || DSA**
 
