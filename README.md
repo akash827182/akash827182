@@ -1,4 +1,4 @@
-[![MasterHead](https://www.iscistech.in/image/software-development-banner-iscistech-business-solution-india.jpg)]
+![MasterHead](https://www.iscistech.in/image/software-development-banner-iscistech-business-solution-india.jpg)
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
