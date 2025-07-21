@@ -17,7 +17,7 @@
 
 ### 📫 Reach me at:
 - **Email**: `akashkumar827182@gmail.com`
-- **Resume**: [View Resume](https://drive.google.com/file/d/1JH976SgDklaqUgoL83STnWP-3yWrOhXX/view?usp=sharing)
+- **Resume**: [View Resume](https://drive.google.com/file/d/1JfGDbOgPNcIKJRhFphYbtI_gEdVGQ_i7/view?usp=sharing)
 
 ---
 
